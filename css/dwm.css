@@ -76,6 +76,7 @@
     float: left;
     width: 50%;
     height: 50%;
+    opacity: 0.8;
 }
 #dwm_tips .tips_border {
     height: 100%;
