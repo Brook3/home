@@ -1,29 +1,27 @@
-.header {
+#site-box {
 	position: absolute;
-	top: 0;
+	top: 30%;
 	left: 50%;
-	transform: translate(-50%);
+	transform: translate(-50%, -30%);
 	text-align: center;
 	z-index: 999;
-}
-.header .user-site {
 	display: none;
 	background-color: gray;
 	opacity: 0.9;
 	padding: 20px;
 }
-.header .user-site h3 {
+#site-box h3 {
 	clear: both;
 	text-align: left;
 	margin: 0;
 }
-.header .user-site ul {
+#site-box ul {
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
 	display: flow-root;
 }
-.header .user-site ul li {
+#site-box ul li {
 	float: left;
 	padding: 10px 20px;
 }

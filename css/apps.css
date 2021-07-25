@@ -1,4 +1,5 @@
 .apps {
+    display: none;
 	position: absolute;
 	height: 100%;
 	text-align: center;

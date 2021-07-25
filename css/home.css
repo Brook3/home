@@ -1,5 +1,6 @@
+@import "dwm.css";
 @import "popup.css";
-@import "header.css";
+@import "site.css";
 @import "apps.css";
 @import "plugin.css";
 @import "sidebar.css";
@@ -19,10 +20,4 @@ body {
 .show {
     pointer-events:auto;
     opacity:1
-}
-.main {
-	position: absolute;
-	z-index: 99;
-	width: 100%;
-	top: 41%;
 }
