@@ -92,6 +92,8 @@
     background-color: #385743;
     padding: 3%;
     font-size: 22px;
+    max-width: 50%;
+    max-height: 50%;
     word-break: keep-all;
     color: white;
 }
